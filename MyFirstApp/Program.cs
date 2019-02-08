@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MyFirstApp
 {
@@ -66,42 +63,54 @@ namespace MyFirstApp
             //    Console.WriteLine($"The loop is {i}");
             //}
 
-            var userInput = "1";
+            //var userInput = "1";
 
-            while(userInput == "0")
-            {
-                Console.WriteLine("Type a number to continue:");
-                Console.WriteLine("1 - Do Operation A");
-                Console.WriteLine("2 - Do Operation B");
-                Console.WriteLine("3 - Do Operation C");
-                Console.WriteLine("0 - Exit");
+            //while (userInput == "0")
+            //{
+            //    Console.WriteLine("Type a number to continue:");
+            //    Console.WriteLine("1 - Do Operation A");
+            //    Console.WriteLine("2 - Do Operation B");
+            //    Console.WriteLine("3 - Do Operation C");
+            //    Console.WriteLine("0 - Exit");
 
-                userInput = Console.ReadLine();
+            //    userInput = Console.ReadLine();
 
-                if (userInput == "1")
-                {
-                    Console.WriteLine("Doing Operation A");
-                }
-                else if (userInput == "2")
-                {
-                    Console.WriteLine("Doing Operation B");
-                }
-                else if (userInput == "3")
-                {
-                    Console.WriteLine("Doing Operation C");
-                }
-                else if (userInput == "0")
-                {
-                    break;
-                }
-                else
-                {
-                    Console.WriteLine("Wrong input");
-                }
-            }
+            //    if (userInput == "1")
+            //    {
+            //        Console.WriteLine("Doing Operation A");
+            //    }
+            //    else if (userInput == "2")
+            //    {
+            //        Console.WriteLine("Doing Operation B");
+            //    }
+            //    else if (userInput == "3")
+            //    {
+            //        Console.WriteLine("Doing Operation C");
+            //    }
+            //    else if (userInput == "0")
+            //    {
+            //        continue;
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Wrong input");
+            //    }
+            //}
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
+            //var myArray = new int[2];
+
+            //myArray[0] = 1;
+            //myArray[1] = 2;
+            //myArray[2] = 3;
+
+            //var myList = new List<string>();
+            //myList.Add("1");
+            //myList.Add("2");
+            //myList.RemoveAt(0);
+
+            //Console.ReadLine();
         }
     }
 }
