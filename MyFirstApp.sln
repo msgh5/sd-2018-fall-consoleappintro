@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstApp", "MyFirstApp\My
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exercise1.csproj", "{8B37DCA0-8C00-4C8E-B174-1EADD981BB68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3", "Exercise3\Exercise3.csproj", "{E8CE594B-DBD1-4A8C-8495-8A925400CAA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarExercise", "CarExercise\CarExercise.csproj", "{635A72AC-CC03-412D-8507-DB2847456D59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8B37DCA0-8C00-4C8E-B174-1EADD981BB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B37DCA0-8C00-4C8E-B174-1EADD981BB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B37DCA0-8C00-4C8E-B174-1EADD981BB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8CE594B-DBD1-4A8C-8495-8A925400CAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CE594B-DBD1-4A8C-8495-8A925400CAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CE594B-DBD1-4A8C-8495-8A925400CAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CE594B-DBD1-4A8C-8495-8A925400CAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635A72AC-CC03-412D-8507-DB2847456D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635A72AC-CC03-412D-8507-DB2847456D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635A72AC-CC03-412D-8507-DB2847456D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635A72AC-CC03-412D-8507-DB2847456D59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
